@@ -38,9 +38,7 @@ object Monoid extends App {
 
   }
 
-
   println(sum(1 to 10 toList))
   println(concat(List("hello", "world")))
-
 
 }
