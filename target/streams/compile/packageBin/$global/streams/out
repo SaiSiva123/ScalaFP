@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/scalafp_2.12-1.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/Receiver$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/Receiver$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/HelloAkkaScala$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/HelloAkkaScala$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/SendMsg$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/SendMsg$.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/SendMsg.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/SendMsg.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/HelloAkkaScala.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/HelloAkkaScala.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples[0m
+[0m[[0mdebug[0m] [0m	testing[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/Receiver.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/Receiver.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka/samples/HelloAkkaScala$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka/samples/HelloAkkaScala$.class[0m
+[0m[[0mdebug[0m] [0m	testing/akka[0m
+[0m[[0mdebug[0m] [0m	  /Users/bselvaraj/dev/repos/ScalaFP/target/scala-2.12/classes/testing/akka[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
