@@ -3,14 +3,12 @@
 /**
   * Created by bselvaraj
   */
-object MonoidTesting extends App {
+object Monoid extends App {
 
-
+  import Monoid._
   def sum(list: List[Int]) = list.foldLeft(IntMonoid.zero)(IntMonoid.map)
 
   def concat(list: List[String]) = list.foldLeft(StringMonoid.zero)(StringMonoid.map)
-
-  import Monoid._
 
   trait Monoid[A] {
     def map(a1: A, a2: A): A
